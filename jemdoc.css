@@ -5,17 +5,17 @@ table#tlayout {
     border-collapse: separate;
     background: white;
 }
-/*
+/* 
 body {
 	background: white;
 	padding-bottom: 8px;
 	margin: 0;
-}
-*/
+} */
+
 html {
-  /*background-color: #eeeeee; */
-  background-color: #192b50; 
-  /*background-color: #213e3e;*/
+  background-color: #eeeeee;
+  /* background-color: #192b50;  */
+  /* background-color: #213e3e; */
 }
 
 body { 
